@@ -12,6 +12,4 @@ The columns in this dataset are:
 5. PetalWidthCm.
 6. Species.
 
-https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FIris_(plant)&ved=0CBYQjRxqFwoTCODal7WfwJIDFQAAAAAdAAAAABAI&opi=89978449
-<img width="960" height="1225" alt="image" src="https://github.com/user-attachments/assets/bba61bf0-8f3e-4e0c-92d0-d027330edffa" />
-
+https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FIris_(plant)&ved=0CBYQjRxqFwoTCODal7WfwJIDFQAAAAAdAAAAABAI&opi=89978449<img width="960" height="1225" alt="image" src="https://github.com/user-attachments/assets/f2b596a2-f856-4391-85de-e74424533bc6" /> 
