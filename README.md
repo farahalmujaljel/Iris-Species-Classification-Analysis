@@ -1,4 +1,4 @@
-# ARTI308_LAB2
+<img width="960" height="1225" alt="image" src="https://github.com/user-attachments/assets/e48d8116-6359-4a30-919c-fdb1eb7f55f6" /># ARTI308_LAB2
 Project Title:
 Iris Species Classification Analysis
 
